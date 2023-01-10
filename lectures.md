@@ -22,10 +22,10 @@
 
 ***
 
-| Lecture | Lecture Topic | Pre-Lecture Slides | Annotated Lecture Slides | Lecture Video | Lecture Notes
+| Lecture | Lecture Topic | Pre-Lecture Reading | Pre-Lecture Slides | Annotated Lecture Slides | Lecture Video | Lecture Notes
 | :--- | :----: | :---: | :---:|
-| 1 | Introduction | [Lecture 1](Lectures/Lecture_1.pdf) | [Lecture 1](Lectures/Lecture_1_annotated.pdf) | [Video 1](https://youtu.be/nB77M-mm0Nk&t=1s) | Test 
-| 2 | Linear Regression | [Lecture 2](Lectures/Lecture_2.pdf) | [Lecture 2](Lectures/Lecture_2_annotated.pdf) | [Video 2](https://youtu.be/uM_q35ZybFY&t=1s) | Test
+| 1 | Introduction | Test 1 | [Lecture 1](Lectures/Lecture_1.pdf) | [Lecture 1](Lectures/Lecture_1_annotated.pdf) | [Video 1](https://youtu.be/nB77M-mm0Nk&t=1s) | Test 
+| 2 | Linear Regression | Test 2 | [Lecture 2](Lectures/Lecture_2.pdf) | [Lecture 2](Lectures/Lecture_2_annotated.pdf) | [Video 2](https://youtu.be/uM_q35ZybFY&t=1s) | Test
 
 ### Guest Lectures
 
