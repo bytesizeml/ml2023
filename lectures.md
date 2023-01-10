@@ -21,12 +21,14 @@
 ### Lectures and Lecture Notes
 
 ***
+[Lecture Notes in Progress](Lectures/lecture_notes.pdf)
+***
 
-| Lecture | Lecture Topic | Pre-Lecture Reading | Pre-Lecture Slides | Annotated Lecture Slides | Lecture Video | Lecture Notes
+| Lecture | Lecture Topic | Pre-Lecture Slides | Annotated Lecture Slides | Lecture Video 
 | :--- | :----: | :---: | :---:|
-| 1 | Introduction | Test 1 | [Lecture 1](Lectures/Lecture_1.pdf) | [Lecture 1](Lectures/Lecture_1_annotated.pdf) | [Video 1](https://youtu.be/nB77M-mm0Nk&t=1s) | Test 
-| 2 | Linear Regression | Test 2 | [Lecture 2](Lectures/Lecture_2.pdf) | [Lecture 2](Lectures/Lecture_2_annotated.pdf) | [Video 2](https://youtu.be/uM_q35ZybFY&t=1s) | Test
-
+| 1 | Introduction |  [Lecture 1](Lectures/Lecture_1.pdf) | [Lecture 1](Lectures/Lecture_1_annotated.pdf) | [Video 1](https://youtu.be/nB77M-mm0Nk&t=1s) |
+| 2 | Linear Regression | [Lecture 2](Lectures/Lecture_2.pdf) | [Lecture 2](Lectures/Lecture_2_annotated.pdf) | [Video 2](https://youtu.be/uM_q35ZybFY&t=1s) | 
+| 3 | Linear Regression & Overfitting | [Lecture 3](Lectures/Lecture_3.pdf) | [Lecture 3](Lectures/Lecture_3_annotated.pdf) | [Video 3]() |
 ### Guest Lectures
 
 *** 
