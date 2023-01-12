@@ -33,7 +33,6 @@
 | 3 | Linear Regression and Overfitting | [Lecture 3](Lectures/Lecture_3.pdf) | [Lecture 3](Lectures/Lecture_3_annotated.pdf) | [Video 3]()  |
 | 4 | Overfitting, SGD and Classification | [Lecture 4](Lectures/Lecture_4.pdf) | [Lecture 4](Lectures/Lecture_4_annotated.pdf) | [Video 4]()  |
 
-### Guest Lectures
 
 *** 
 
