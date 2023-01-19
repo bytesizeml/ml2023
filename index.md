@@ -25,6 +25,12 @@
 
 Lectures go from January - March 2023
 
+### Office Hours and Quiz Section Hours
+1. TA quiz section: 6-7 pm, Friday
+1. TA office hours: 6-7 pm, Saturday
+1. Grader Office hours: 5-6 pm, Saturday
+1. Karthik Office hours: 5:50 pm -6:20 pm, Tuesday and Thursday after class
+
 ### Course Syllabus
 
 ***
