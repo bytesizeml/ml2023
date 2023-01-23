@@ -33,7 +33,7 @@
 | 3 | Linear Regression and Overfitting | [Lecture 3](Lectures/Lecture_3.pdf) | [Lecture 3](Lectures/Lecture_3_annotated.pdf) | [Video 3](https://youtu.be/E75LFMciN4E)  |
 | 4 | Overfitting and SGD| [Lecture 4](Lectures/Lecture_4.pdf) | [Lecture 4](Lectures/Lecture_4_annotated.pdf) | [Video 4](https://youtu.be/rwVaVHCCI4k)  |
 | 5 | Binary and Multi-class Classification | [Lecture 5](Lectures/Lecture_5.pdf) | [Lecture 5](Lectures/Lecture_5_annotated.pdf) | [Video 5](https://www.youtube.com/watch?v=CoGQJ0T0VJo&t=17s)  |
-| 5 | Features for Text | [Lecture 5 Recorded](Lectures/Lecture_5_recorded.pdf) | [Lecture 5 Recorded](Lectures/Lecture_5_recorded_annotated.pdf) | [Video 5 (Recorded)]()  |
+| 5 | Features for Text | [Lecture 5 Recorded](Lectures/Lecture_5_recorded.pdf) | [Lecture 5 Recorded](Lectures/Lecture_5_recorded_annotated.pdf) | [Video 5 (Recorded)](https://youtu.be/c7klocSF068)  |
 
 
 *** 
