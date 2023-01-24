@@ -34,7 +34,7 @@
 | 4 | Overfitting and SGD| [Lecture 4](Lectures/Lecture_4.pdf) | [Lecture 4](Lectures/Lecture_4_annotated.pdf) | [Video 4](https://youtu.be/rwVaVHCCI4k)  |
 | 5 | Binary and Multi-class Classification | [Lecture 5](Lectures/Lecture_5.pdf) | [Lecture 5](Lectures/Lecture_5_annotated.pdf) | [Video 5](https://www.youtube.com/watch?v=CoGQJ0T0VJo&t=17s)  |
 | 5 | Features for Text | [Lecture 5 Recorded](Lectures/Lecture_5_recorded.pdf) | [Lecture 5 Recorded](Lectures/Lecture_5_recorded_annotated.pdf) | [Video 5 (Recorded)](https://youtu.be/c7klocSF068)  |
-
+| 6 | Decision Trees | [Lecture 6](Lectures/Lecture_6.pdf) | [Lecture 6](Lectures/Lecture_6_annotated.pdf) | [Video 6]()  |
 
 *** 
 
