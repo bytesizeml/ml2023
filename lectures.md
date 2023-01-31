@@ -36,6 +36,7 @@
 | 5 | Features for Text | [Lecture 5 Recorded](Lectures/Lecture_5_recorded.pdf) | [Lecture 5 Recorded](Lectures/Lecture_5_recorded_annotated.pdf) | [Video 5 (Recorded)](https://youtu.be/c7klocSF068)  | |
 | 6 | Decision Trees | [Lecture 6](Lectures/Lecture_6.pdf) | [Lecture 6](Lectures/Lecture_6_annotated.pdf) | [Video 6]()  | |
 | 7 | Random Forests and Clustering | [Lecture 7](Lectures/Lecture_7.pdf) | [Lecture 7](Lectures/Lecture_7_annotated.pdf) | [Video 7]()  | [Ensembling Classifiers](Notebooks/ensemble_classifier.ipynb) |
+| 8 | kMeans Clustering | [Lecture 8](Lectures/Lecture_8.pdf) | [Lecture 8](Lectures/Lecture_8_annotated.pdf) | [Video 8]()  |  |
 
 *** 
 
