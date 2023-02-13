@@ -38,8 +38,8 @@
 | 7 | Random Forests and Clustering | [Lecture 7](Lectures/Lecture_7.pdf) | [Lecture 7](Lectures/Lecture_7_annotated.pdf) | [Video 7](https://youtu.be/Oah1u0lkQiY)  | [Ensembling Classifiers](Notebooks/ensemble_classifier.ipynb) |
 | 8 | kMeans Clustering | [Lecture 8](Lectures/Lecture_8.pdf) | [Lecture 8](Lectures/Lecture_8_annotated.pdf) | [Video 8](https://youtu.be/OLySLdGjUGQ)  |  |
 | 9 | Embeddings, Data Visualization | [Lecture 9](Lectures/Lecture_9.pdf) | [Lecture 9](Lectures/Lecture_9_annotated.pdf) | [Video 9](https://youtu.be/hp048THJJBo)  |  |
-| 10 | Clustering, Embeddings, Dimensionality Reduction | [Lecture 10](Lectures/Lecture_10.pdf) | [Lecture 10](Lectures/Lecture_10_annotated.pdf) | [Video 10]()  |  |
-| 11 | Embeddings and Anomaly Detection | [Lecture 11](Lectures/Lecture_11.pdf) | [Lecture 11](Lectures/Lecture_11_annotated.pdf) | [Video 11]()  |  |
+| 10 | Clustering, Embeddings, Dimensionality Reduction | [Lecture 10](Lectures/Lecture_10.pdf) | [Lecture 10](Lectures/Lecture_10_annotated.pdf) | [Video 10](https://youtu.be/8BlrFm2DFlM)  |  |
+| 11 | Embeddings and Anomaly Detection | [Lecture 11](Lectures/Lecture_11.pdf) | [Lecture 11](Lectures/Lecture_11_annotated.pdf) | [Video 11](https://youtu.be/OMpk6_hO_Qw)  |  |
 
 *** 
 
