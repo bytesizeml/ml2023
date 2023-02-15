@@ -40,6 +40,7 @@
 | 9 | Embeddings, Data Visualization | [Lecture 9](Lectures/Lecture_9.pdf) | [Lecture 9](Lectures/Lecture_9_annotated.pdf) | [Video 9](https://youtu.be/hp048THJJBo)  |  |
 | 10 | Clustering, Embeddings, Dimensionality Reduction | [Lecture 10](Lectures/Lecture_10.pdf) | [Lecture 10](Lectures/Lecture_10_annotated.pdf) | [Video 10](https://youtu.be/8BlrFm2DFlM)  |  |
 | 11 | Embeddings and Anomaly Detection | [Lecture 11](Lectures/Lecture_11.pdf) | [Lecture 11](Lectures/Lecture_11_annotated.pdf) | [Video 11](https://youtu.be/OMpk6_hO_Qw)  |  |
+| 12 | Anomaly Detection Algorithms | [Lecture 12](Lectures/Lecture_12.pdf) | [Lecture 12](Lectures/Lecture_12_annotated.pdf) | [Video 12]()  |  |
 
 *** 
 
