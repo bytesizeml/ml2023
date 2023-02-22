@@ -42,7 +42,7 @@
 | 11 | Embeddings and Anomaly Detection | [Lecture 11](Lectures/Lecture_11.pdf) | [Lecture 11](Lectures/Lecture_11_annotated.pdf) | [Video 11](https://youtu.be/OMpk6_hO_Qw)  |  |
 | 12 | Anomaly Detection Algorithms | [Lecture 12](Lectures/Lecture_12.pdf) | [Lecture 12](Lectures/Lecture_12_annotated.pdf) | [Video 12](https://youtu.be/Ku1A9BMR6OQ)  |  |
 | 13 | Anomaly Detection and Deep Learning | [Lecture 13](Lectures/Lecture_13.pdf) | [Lecture 13](Lectures/Lecture_13_annotated.pdf) | [Video 13](https://youtu.be/ccK7Povj8v4)  |  |
-| 14 | Deep Learning Fundamentals | [Lecture 14](Lectures/Lecture_14.pdf) | [Lecture 14](Lectures/Lecture_14_annotated.pdf) | [Video 14]()  |  |
+| 14 | Deep Learning Fundamentals | [Lecture 14](Lectures/Lecture_14.pdf) | [Lecture 14](Lectures/Lecture_14_annotated.pdf) | [Video 14](https://youtu.be/X3m8QiIWTEo)  |  |
 
 *** 
 
