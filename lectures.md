@@ -44,7 +44,7 @@
 | 13 | Anomaly Detection and Deep Learning | [Lecture 13](Lectures/Lecture_13.pdf) | [Lecture 13](Lectures/Lecture_13_annotated.pdf) | [Video 13](https://youtu.be/ccK7Povj8v4)  |  |
 | 14 | Deep Learning Fundamentals | [Lecture 14](Lectures/Lecture_14.pdf) | [Lecture 14](Lectures/Lecture_14_annotated.pdf) | [Video 14](https://youtu.be/X3m8QiIWTEo)  |  |
 | 15 | Deep Learning TensorFlow Demos and Auto Encoders | [Lecture 15](Lectures/Lecture_15.pdf) | [Lecture 15](Lectures/Lecture_15_annotated.pdf) | [Video 15](https://youtu.be/wT5W4uQ3xQg)  |  |
-| 16 | NLP Applications and Transformers | [Lecture 16](Lectures/Lecture_16.pdf) | [Lecture 16](Lectures/Lecture_16_annotated.pdf) | [Video 16](https://youtu.be/RZaCCNzhnsM)  |  |
+| 16 | NLP Applications and Transformers | [Lecture 16](Lectures/Lecture_16.pdf) | [Lecture 16](Lectures/Lecture_16_annotated.pdf) | [Video 16](https://youtu.be/RZaCCNzhnsM)  | [Paraphrasing Task Hugging Face Demo](https://colab.research.google.com/drive/1zHLTTMh-45PHbH4E9E7n-ZZuZzp_Qnc3) |
 
 *** 
 
