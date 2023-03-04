@@ -45,7 +45,7 @@
 | 14 | Deep Learning Fundamentals | [Lecture 14](Lectures/Lecture_14.pdf) | [Lecture 14](Lectures/Lecture_14_annotated.pdf) | [Video 14](https://youtu.be/X3m8QiIWTEo)  |  |
 | 15 | Deep Learning TensorFlow Demos and Auto Encoders | [Lecture 15](Lectures/Lecture_15.pdf) | [Lecture 15](Lectures/Lecture_15_annotated.pdf) | [Video 15](https://youtu.be/wT5W4uQ3xQg)  |  |
 | 16 | NLP Applications and Transformers | [Lecture 16](Lectures/Lecture_16.pdf) | [Lecture 16](Lectures/Lecture_16_annotated.pdf) | [Video 16](https://youtu.be/RZaCCNzhnsM)  | [Paraphrasing Hugging Face 1](Notebooks/mrpc_paraphrasing_hugging_face.ipynb) [Paraphrasing Hugging Face 2](Notebooks/mrpc_full_training_hugging_face.ipynb)  |
-| 17 | NLP Applications and Transformers | [Lecture 17](Lectures/Lecture_17.pdf) | [Lecture 17](Lectures/Lecture_17_annotated.pdf) | [Video 17]()  | [Paraphrasing Hugging Face 1](Notebooks/mrpc_paraphrasing_hugging_face.ipynb) [Paraphrasing Hugging Face 2](Notebooks/mrpc_full_training_hugging_face.ipynb)  |
+| 17 | NLP Applications and Transformers | [Lecture 17](Lectures/Lecture_17.pdf) | [Lecture 17](Lectures/Lecture_17_annotated.pdf) | [Video 17](https://youtu.be/5aBYE2dilJY)  | [Paraphrasing Hugging Face 1](Notebooks/mrpc_paraphrasing_hugging_face.ipynb) [Paraphrasing Hugging Face 2](Notebooks/mrpc_full_training_hugging_face.ipynb)  |
 
 *** 
 
