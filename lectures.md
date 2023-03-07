@@ -50,7 +50,7 @@
 *** 
 
 
-[Course Evaluation](https://urldefense.com/v3/__https://uw.iasystem.org/survey/268399__!!K-Hz7m0Vt54!iM0x_GjemZB-XtMaq3PrIkUfsyfrD1Tdw3YMs2cs48cTPHu7zYeBdEQ7PEtC0ByOuJTJCZi9zNQfNDTB$)
+[Course Evaluation](https://uw.iasystem.org/survey/268399__!!K-Hz7m0Vt54!iM0x_GjemZB-XtMaq3PrIkUfsyfrD1Tdw3YMs2cs48cTPHu7zYeBdEQ7PEtC0ByOuJTJCZi9zNQfNDTB$)
 
 
 
