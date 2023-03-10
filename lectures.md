@@ -47,11 +47,11 @@
 | 16 | NLP Applications and Transformers | [Lecture 16](Lectures/Lecture_16.pdf) | [Lecture 16](Lectures/Lecture_16_annotated.pdf) | [Video 16](https://youtu.be/RZaCCNzhnsM)  | [Paraphrasing Hugging Face 1](Notebooks/mrpc_paraphrasing_hugging_face.ipynb) [Paraphrasing Hugging Face 2](Notebooks/mrpc_full_training_hugging_face.ipynb)  |
 | 17 | NLP Applications and Transformers | [Lecture 17](Lectures/Lecture_17.pdf) | [Lecture 17](Lectures/Lecture_17_annotated.pdf) | [Video 17](https://youtu.be/5aBYE2dilJY)  | [Paraphrasing Hugging Face 1](Notebooks/mrpc_paraphrasing_hugging_face.ipynb) [Paraphrasing Hugging Face 2](Notebooks/mrpc_full_training_hugging_face.ipynb)  |
 | 18 | Fine-tuning Transformers | [Lecture 18](Lectures/Lecture_18.pdf) | [Lecture 18](Lectures/Lecture_18_annotated.pdf) | [Video 18]()  | [Paraphrasing Hugging Face 2](Notebooks/mrpc_full_training_hugging_face.ipynb)  |
+| 19 | Sentence Transformers | [Lecture 19](Lectures/Lecture_19.pdf) | [Lecture 19](Lectures/Lecture_19_annotated.pdf) | [Video 19]()  | [Paraphrasing Hugging Face 2](Notebooks/mrpc_full_training_hugging_face.ipynb)  |
 
 *** 
 
 
-[Course Evaluation](https://uw.iasystem.org/survey/268399__!!K-Hz7m0Vt54!iM0x_GjemZB-XtMaq3PrIkUfsyfrD1Tdw3YMs2cs48cTPHu7zYeBdEQ7PEtC0ByOuJTJCZi9zNQfNDTB$)
 
 
 
